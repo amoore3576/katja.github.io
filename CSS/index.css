@@ -1,0 +1,13 @@
+body {
+    color: #9f65eb;
+    font-family: Agency FB;
+    font-size: 3vh;
+    background-image: url(../Images/space.gif);
+}
+
+#title {
+    top: 5%;
+    position: absolute;
+    left: 40%;
+    text-shadow: 2px 2px white;
+}
