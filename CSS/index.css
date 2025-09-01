@@ -11,3 +11,11 @@ body {
     left: 40%;
     text-shadow: 2px 2px white;
 }
+
+#languageNav {
+    float: right;
+}
+
+h1[lang=en], h1[lang=fr] {
+  display: none
+}
